@@ -1,4 +1,4 @@
 ebooks
 ======
 
-Test readme
+Collection of E-books.
